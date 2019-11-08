@@ -1,0 +1,31 @@
+body{
+  font-size: 19px;
+}
+
+.background-header{
+  background-color: orange;
+
+}
+.align-img{
+  display: inline-block !important;
+
+  }
+.img-background{
+  padding-top: 13%;
+  padding-bottom: 13%;
+}
+
+.background-div{
+  border: blue;
+  background: blue;
+  opacity: 0.1;
+
+}
+
+h1{
+  opacity: 1;
+}
+
+p{
+  opacity: 1;
+}
